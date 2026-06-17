@@ -132,6 +132,4 @@ Distance-field text renderer providing:
 - MSDF Fonts
 - Liquid Glass
 
-## License
-
-MIT
+<img width="1920" height="1080" alt="Base Profile Screenshot 2026 06 17 - 22 40 18 100" src="https://github.com/user-attachments/assets/bb27468f-4487-4d4f-944f-2238b6556f3d" />
