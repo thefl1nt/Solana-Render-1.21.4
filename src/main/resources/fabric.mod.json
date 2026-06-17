@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "rocksolana",
+  "version": "${version}",
+  "name": "solana-render",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "All-Rights-Reserved",
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "ru.solana.Rocksolana"
+    ]
+  },
+  "mixins": [
+    "rocksolana.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}
